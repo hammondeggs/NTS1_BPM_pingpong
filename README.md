@@ -8,7 +8,7 @@ This particular flavour of this delay is "pingpong" - this means, the delay will
 
 Place these files in your logue-sdk delfx\tests folder e.g.
 
-```...logue-sdk\platform\nutekt-digital\delfx\tests\bpmdelay_dualmono ```
+```...logue-sdk\platform\nutekt-digital\delfx\tests\bpmdelay_pingpong ```
 
 Feel free to modify and create your own variations etc - try adding filters etc!
 
